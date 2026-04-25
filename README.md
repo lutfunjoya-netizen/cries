@@ -1,7 +1,6 @@
 # PokéAPI Cries <a href="https://pokeapi.co/api/v2/pokemon/regigigas"><img src='https://veekun.com/dex/media/pokemon/global-link/25.png' height=50px/></a>
 
-This repository contains the cries of all Pokémon from Generation 1 to 9 in `.ogg` format. 
-The cries were downloaded from the [Showdown](https://play.pokemonshowdown.com/) simulator, [Veekun](https://veekun.com/dex/downloads) website, and more.
+This repository contains the cries of all Pokémon from Generation 1 to 9 in `.ogg` format.
 
 ## Installation
 
